@@ -1,0 +1,5 @@
+package threadsafe;
+
+public class SingletonClient {
+
+}

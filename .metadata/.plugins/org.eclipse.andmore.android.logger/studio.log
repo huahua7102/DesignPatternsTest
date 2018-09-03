@@ -1,0 +1,76 @@
+2018-08-31 16:24:45,126 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2018-08-31 16:24:45,126 [Worker-1] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2018-08-31 16:24:45,126 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2018-08-31 16:24:45,128 [Worker-1] DEBUG class java.lang.Class - Andmore Plugin started.
+2018-08-31 16:24:45,154 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2018-08-31 16:24:45,185 [Worker-1] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2018-08-31 16:24:45,356 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2018-08-31 16:24:45,357 [Worker-1] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2018-08-31 16:24:45,381 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2018-08-31 16:24:45,381 [Worker-1] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2018-08-31 16:24:45,387 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2018-08-31 16:24:45,389 [Worker-1] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2018-08-31 16:24:45,407 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2018-08-31 16:24:45,408 [Worker-1] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2018-08-31 16:31:02,484 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2018-08-31 16:31:02,751 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1182.fwk1128733310/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2018-08-31 16:31:02,755 [main] DEBUG Studio for Android - JDBC Driver Path:C:\MyDownloads\Download\eclipse-jee-mars-1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1182\0\.cp\res\androidjdbc.jar
+2018-08-31 16:31:02,755 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1182.fwk1128733310/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:plugins/org.eclipse.andmore.android.common_0.5.0.201605181018.jar
+2018-08-31 16:31:02,758 [main] DEBUG Studio for Android - JDBC Driver Path:C:\MyDownloads\Download\eclipse-jee-mars-1-win32-x86_64\eclipse\configuration\org.eclipse.osgi\1182\0\.cp\res\androidjdbc.jar
+2018-08-31 16:31:02,902 [main] INFO  Studio for Android - Created a JDBC driver instance at Data Tools.
+2018-08-31 16:31:02,933 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2018-08-31 16:31:02,934 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2018-08-31 16:31:02,943 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2018-08-31 16:31:03,684 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2018-08-31 16:31:04,269 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2018-08-31 16:31:04,288 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2018-08-31 16:31:04,289 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2018-08-31 16:31:04,289 [Framework stop] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2018-09-03 09:46:29,130 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2018-09-03 09:46:29,222 [Worker-4] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2018-09-03 09:46:29,222 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2018-09-03 09:46:29,227 [Worker-4] DEBUG class java.lang.Class - Andmore Plugin started.
+2018-09-03 09:46:29,262 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2018-09-03 09:46:29,284 [Worker-4] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2018-09-03 09:46:29,333 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2018-09-03 09:46:29,333 [Worker-4] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2018-09-03 09:46:29,337 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2018-09-03 09:46:29,338 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2018-09-03 09:46:29,345 [Worker-4] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2018-09-03 09:46:29,345 [Worker-4] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2018-09-03 09:46:29,383 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_24 Status: OFF
+2018-09-03 09:46:29,400 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_21 Status: OFF
+2018-09-03 09:46:29,400 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD1 Status: OFF
+2018-09-03 09:46:29,418 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_24 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2018-09-03 09:46:29,418 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_21 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2018-09-03 09:46:29,418 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: AVD1 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2018-09-03 09:46:29,425 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2018-09-03 09:46:29,431 [Worker-4] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2018-09-03 09:46:29,432 [Worker-4] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2018-09-03 09:46:30,252 [Worker-6] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2018-09-03 09:46:30,531 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_21 Status: org.eclipse.andmore.android.emulator.status.offline
+2018-09-03 09:51:45,050 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,051 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,052 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,052 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema
+2018-09-03 09:51:45,052 [ModalContext] ERROR Studio for Android - org.eclipse.sequoyah.localization.tools.managers.LocalizationManager: Error getting Localization Schema

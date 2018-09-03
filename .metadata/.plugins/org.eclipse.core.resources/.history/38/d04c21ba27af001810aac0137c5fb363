@@ -1,0 +1,5 @@
+package staticinnerclass;
+
+public class Singleton {
+
+}
